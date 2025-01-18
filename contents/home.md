@@ -1,7 +1,4 @@
 
-
-[![jiang-yuyan]
-
 **He is currently pursuing a Ph.D Degree in Information Science, at University of Chinese Academy of Sciences, China.**
 
 #### Email
