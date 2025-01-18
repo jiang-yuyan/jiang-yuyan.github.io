@@ -1,6 +1,6 @@
 
 
-[![jiang-yuyan](https://img.shields.io/badge/jiang-yuyan-github-blue?logo=github)](https://github.com/jiang-yuyan)
+[![jiang-yuyan]
 
 **He is currently pursuing a Ph.D Degree in Information Science, at University of Chinese Academy of Sciences, China.**
 
