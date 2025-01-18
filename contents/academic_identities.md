@@ -1,4 +1,3 @@
-#### Research Interests
 - **Society Members**
 1. **Specialized Committee on Scientometrics and Information Metrology of China**
 - **Reviewer**
