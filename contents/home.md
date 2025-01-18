@@ -21,9 +21,9 @@ B.M., Information Management and Information Systems, Nanjing University Jinling
 6.	Digital Library & Reading Promotion
 
 #### Research Interests
-	Society Members
+- **Society Members**
 1.	Specialized Committee on Scientometrics and Information Metrology of China
-	Reviewer
+- **Reviewer**
 1.	Journal of Medical Internet Research (SCI)
 2.	Interactive Journal of Medical Research (ESCI、Scopus)
 3.	JMIR Medical Education (ESCI、Scopus)
