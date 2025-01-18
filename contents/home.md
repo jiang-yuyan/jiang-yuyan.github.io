@@ -5,12 +5,17 @@
 He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
 
 #### Email
-sli[at]cumt.edu.cn
+jiangyuyancite[at]163.com
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025 (expected).\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+Ph.D, Information Science, University of Chinese Academy of Sciences,2024-2027(expected).
+M.M., Library, Information and Archives Management, Xinxiang Medical University, 2021—2024.
+B.M., Information Management and Information Systems, Nanjing University Jinling College, 2017—2021.
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
-
+1.	Scientometrics
+2.	Journal Publishing
+3.	Open Science & Scientific Data
+4.	Peer Review & Research Ethic
+5.	Digital Humanity
+6.	Digital Library & Reading Promotion
