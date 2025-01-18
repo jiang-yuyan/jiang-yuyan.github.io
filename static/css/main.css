@@ -49,9 +49,9 @@ section header h2{
 }
 
 section .main-body{
-    font-size: 0.75rem;
+    font-size: 1rem;
     font-weight: 200;
-    line-height: 1rem;
+    line-height: 1.5rem;
 }
 
 
