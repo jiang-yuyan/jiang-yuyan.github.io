@@ -1,8 +1,8 @@
 - **SCI, SSCI, AHCI**
 
-**[1]** **Jiang Y** Liu X, Zhang Z, et al. Evaluation and Comparison of Academic Impact and Disruptive Innovation Level of Medical Journals: Bibliometric Analysis and Disruptive Evaluation[J]. ***Journal of Medical Internet Research***, 2024, 26: e55121.
+**[1]** **Jiang Y**, Liu X, Wang L, et al. Evaluation and Comparison of the Academic Quality of Open Access Mega Journals and Authoritative Journals: Disruptive Innovation Evaluation[J]. ***Journal of Medical Internet Research***, 2025, 27: e59598.
 
-**[2] Jiang Y**, Liu X, Wang L, et al. Evaluation and Comparison of the Academic Quality of Open Access Mega Journals and Authoritative Journals: Disruptive Innovation Evaluation[J]. ***Journal of Medical Internet Research***, 2025, 27: e59598.
+**[2]** **Jiang Y** Liu X, Zhang Z, et al. Evaluation and Comparison of Academic Impact and Disruptive Innovation Level of Medical Journals: Bibliometric Analysis and Disruptive Evaluation[J]. ***Journal of Medical Internet Research***, 2024, 26: e55121.
 
 **[3]** **Jiang Y** Liu X. A construction and empirical research of the journal disruption index based on open citation data[J]. ***Scientometrics***, 2023, 128(7): 3935-3958.
 
@@ -26,11 +26,11 @@
 
 **[6]** Wang L, Liu X, **Jiang Y.** Dynamic changes in paper quantity and impact factor of SCI-indexed journals and influence of paper quantity on impact factor [J]. ***Chinese Journal of Scientific and Technical Periodicals*,** 2024, 35(7): 982-994
 
-**[7]** Zhang Z, Yang X, Liu X, **Jiang Y.** Effects of author's internationalization level on journal impact and disruptive innovation in China journals indexed in SCI [J]. ***Chinese Journal of Scientific and Technical Periodicals*,**2024,35(11):1611-1618.
+**[7]** Zhang Z, Yang X, Liu X, **Jiang Y.** Effects of author's internationalization level on journal impact and disruptive innovation in China journals indexed in SCI [J]. ***Chinese Journal of Scientific and Technical Periodicals*,**2024, 35(11): 1611-1618.
 
-**[8]** Cao J, Gao J, **Jiang Y**, Zhou Z. Analysis of Characteristics and Reasons of Retracted Papers from Chinese Universities by International Journals [J]. ***Chinese Journal of Scientific and Technical Periodicals***,** Accept**.**
+**[8]** Cao J, Gao J, **Jiang Y**, Zhou Z. Analysis of Characteristics and Reasons of Retracted Papers from Chinese Universities by International Journals [J]. ***Chinese Journal of Scientific and Technical Periodicals*,** **Accept**.
 
-**[9]** Liu X, **Jiang Y.** Journal Disruption Index Based on Citation Data Source Optimization and Its Empirical Study [J]. ***Chinese Journal of Scientific and Technical Periodicals***,** Accept**.**
+**[9]** Liu X, **Jiang Y.** Journal Disruption Index Based on Citation Data Source Optimization and Its Empirical Study [J]. ***Chinese Journal of Scientific and Technical Periodicals*,** **Accept**.
 
 **• 	CSTPCD (China Scientific and Technical Papers and Citations Database)**
 
