@@ -1,8 +1,8 @@
 
 **He is currently pursuing a Ph.D Degree in Information Science, at University of Chinese Academy of Sciences, China.**
 
-#### Email
-jiangyuyancite@163.com
+#### Email: jiangyuyancite@163.com
+#### Google Scholar: https://scholar.google.com/citations?user=QTCEilEAAAAJ
 
 #### Education
 **Ph.D, Information Science, University of Chinese Academy of Sciences,2024-2027(expected).**
