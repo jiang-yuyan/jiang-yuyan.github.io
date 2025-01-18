@@ -1,4 +1,4 @@
-|**No.**|**Project**|**Code**|**Role**|**
+|**No.**|**Project**|**Code**|**Role**|
 |:-:|:-:|:-:|:-:|
 |**1**|**General Project of National Social Science Fund**|**23BTQ085**|**First Participant**|
 |**2**|**General Project of National Social Science Fund**|**19BTQ087**|**Other Participant**|
